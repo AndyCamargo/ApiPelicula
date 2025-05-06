@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V7ndcoIKdNKgoFpADbCPBUezvT7pgPeHePhW5yDqAFU=",
+  "Hash": "OgtVe9Y8d4SGuBfm6ZyLDDYS5LWDaTbJ69GmdjoFHk0=",
   "Source": "ApiPeliculas",
   "BasePath": "_content/ApiPeliculas",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ApiPeliculas\\wwwroot",
       "Source": "ApiPeliculas",
-      "ContentRoot": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\",
       "BasePath": "_content/ApiPeliculas",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
       "SourceId": "ApiPeliculas",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\",
       "BasePath": "_content/ApiPeliculas",
       "RelativePath": "ImagenesPeliculas/03936c355-c120-446a-a780-e0e206c897d0#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg"
     },
     {
-      "Identity": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
       "SourceId": "ApiPeliculas",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\",
       "BasePath": "_content/ApiPeliculas",
       "RelativePath": "ImagenesPeliculas/56e4f5dde-e0cf-40c5-a04f-37a1b09f6770#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -62,7 +62,7 @@
   "Endpoints": [
     {
       "Route": "ImagenesPeliculas/03936c355-c120-446a-a780-e0e206c897d0.b8sa81g66e.jpg",
-      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
+      "AssetFile": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -107,7 +107,7 @@
     },
     {
       "Route": "ImagenesPeliculas/03936c355-c120-446a-a780-e0e206c897d0.jpg",
-      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
+      "AssetFile": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -144,7 +144,7 @@
     },
     {
       "Route": "ImagenesPeliculas/56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.6matkobv4o.jpeg",
-      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
+      "AssetFile": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -189,7 +189,7 @@
     },
     {
       "Route": "ImagenesPeliculas/56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
-      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
+      "AssetFile": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bnLSl+iQZ+Y=",
+  "dgSpecHash": "Sx3zNlamODo=",
   "success": true,
-  "projectFilePath": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\ApiPeliculas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
