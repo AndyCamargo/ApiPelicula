@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "V7ndcoIKdNKgoFpADbCPBUezvT7pgPeHePhW5yDqAFU=",
+  "Source": "ApiPeliculas",
+  "BasePath": "_content/ApiPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiPeliculas\\wwwroot",
+      "Source": "ApiPeliculas",
+      "ContentRoot": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
+      "SourceId": "ApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "RelativePath": "ImagenesPeliculas/03936c355-c120-446a-a780-e0e206c897d0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b8sa81g66e",
+      "Integrity": "lSbMTgNaYMeN78rGddSqwtAtaQV2qDHvfl6cAnKrlUk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg"
+    },
+    {
+      "Identity": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
+      "SourceId": "ApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/ApiPeliculas",
+      "RelativePath": "ImagenesPeliculas/56e4f5dde-e0cf-40c5-a04f-37a1b09f6770#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6matkobv4o",
+      "Integrity": "AsFHzwM5j0KlxirDFeKbY2Wwh4UKXM2ElC0LUOkhdos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ImagenesPeliculas/03936c355-c120-446a-a780-e0e206c897d0.b8sa81g66e.jpg",
+      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lSbMTgNaYMeN78rGddSqwtAtaQV2qDHvfl6cAnKrlUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 20:26:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b8sa81g66e"
+        },
+        {
+          "Name": "label",
+          "Value": "ImagenesPeliculas/03936c355-c120-446a-a780-e0e206c897d0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lSbMTgNaYMeN78rGddSqwtAtaQV2qDHvfl6cAnKrlUk="
+        }
+      ]
+    },
+    {
+      "Route": "ImagenesPeliculas/03936c355-c120-446a-a780-e0e206c897d0.jpg",
+      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\03936c355-c120-446a-a780-e0e206c897d0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lSbMTgNaYMeN78rGddSqwtAtaQV2qDHvfl6cAnKrlUk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 20:26:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lSbMTgNaYMeN78rGddSqwtAtaQV2qDHvfl6cAnKrlUk="
+        }
+      ]
+    },
+    {
+      "Route": "ImagenesPeliculas/56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.6matkobv4o.jpeg",
+      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AsFHzwM5j0KlxirDFeKbY2Wwh4UKXM2ElC0LUOkhdos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 20:53:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6matkobv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "ImagenesPeliculas/56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AsFHzwM5j0KlxirDFeKbY2Wwh4UKXM2ElC0LUOkhdos="
+        }
+      ]
+    },
+    {
+      "Route": "ImagenesPeliculas/56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
+      "AssetFile": "D:\\Proyecto Api\\ApiPeliculas\\ApiPeliculas\\wwwroot\\ImagenesPeliculas\\56e4f5dde-e0cf-40c5-a04f-37a1b09f6770.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AsFHzwM5j0KlxirDFeKbY2Wwh4UKXM2ElC0LUOkhdos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 20:53:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AsFHzwM5j0KlxirDFeKbY2Wwh4UKXM2ElC0LUOkhdos="
+        }
+      ]
+    }
+  ]
+}
