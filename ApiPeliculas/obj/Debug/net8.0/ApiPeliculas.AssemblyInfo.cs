@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiPeliculas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d13fa5dbddaa1b67f529cddfeaab4e375f6d1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44de765af0f4cc43f8fe2cac3595d2e1afa3b33e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiPeliculas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiPeliculas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
