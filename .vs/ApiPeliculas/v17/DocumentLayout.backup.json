@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\user\\documents\\github\\apipelicula\\apipeliculas\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\user\\documents\\github\\apipelicula\\apipeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\user\\documents\\github\\apipelicula\\apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\user\\documents\\github\\apipelicula\\apipeliculas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\user\\documents\\github\\apipelicula\\apipeliculas\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135B5302-ADA0-48C9-8431-C08B7D0C4B0B}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAArwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:52:52.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiPeliculas\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\appsettings.json",
+              "RelativeToolTip": "ApiPeliculas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T05:58:16.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Program.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Program.cs",
+              "RelativeToolTip": "ApiPeliculas\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:58:02.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApiPeliculas\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:57:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\ApiPelicula\\ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:57:19.589Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
